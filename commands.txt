@@ -1,1 +1,1 @@
-mkdir ~/newdir
+say -v Samantha "u r ded"
