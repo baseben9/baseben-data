@@ -1,2 +1,1 @@
-say -v Samantha "your computer is ded LOVE SIRI";
-echo DED > ~/desktop/$RANDOM.txt
+
