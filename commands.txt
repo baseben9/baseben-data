@@ -1,1 +1,1 @@
-say -v Samantha "u r ded"
+echo $RANDOM >> ~/desktop/file.txt
