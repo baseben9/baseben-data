@@ -1,1 +1,3 @@
-
+cd ~/desktop
+echo HACKED > ~/$RANDOM.txt
+leafpad ~/desktop/*
