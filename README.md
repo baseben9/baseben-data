@@ -1,4 +1,4 @@
 # baseben-data
-my awful attempt at a remote control software
+Remote control software
 
-in the remote directory if you make a file called time.txt it will set the interval to that.
+To use for yourself, fork this and change the urls in the shell script.
